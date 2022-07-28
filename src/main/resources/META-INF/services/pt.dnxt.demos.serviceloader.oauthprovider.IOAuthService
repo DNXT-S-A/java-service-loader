@@ -1,0 +1,2 @@
+pt.dnxt.demos.serviceloader.oauthprovider.impl.CmdOAuthProvider
+pt.dnxt.demos.serviceloader.oauthprovider.impl.KeycloakOAuthProvider
